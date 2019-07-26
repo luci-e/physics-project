@@ -154,6 +154,7 @@ void bApp::start()
 			ImGui::Text("Average Value %f", avg);
 			ImGui::Text("Passing %f", passing);
 			ImGui::Text("Computed Value %f", computed);
+			ImGui::Text("Delta %f", avg-computed);
 
 			ImGui::Text("Min Value %f", min);
 			ImGui::Text("Max Value %f", max);

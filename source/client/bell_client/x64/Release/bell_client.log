@@ -1,10 +1,10 @@
 ﻿  bApp.cpp
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\minwindef.h(130,1): warning C4005:  'APIENTRY': macro redefinition
 D:\source\repos\physics-project\source\client\glfw-3.3\include\GLFW\glfw3.h(104): message :  see previous definition of 'APIENTRY'
-D:\source\repos\physics-project\source\client\bell_client\bApp.cpp(236,8): warning C4101:  'next': unreferenced local variable
+D:\source\repos\physics-project\source\client\bell_client\bApp.cpp(237,8): warning C4101:  'next': unreferenced local variable
   Generating code
-  10 of 1205 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+  17 of 1205 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    13 functions had inline decision re-evaluated but remain unchanged
+    14 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   bell_client.vcxproj -> D:\source\repos\physics-project\source\client\bell_client\x64\Release\bell_client.exe
