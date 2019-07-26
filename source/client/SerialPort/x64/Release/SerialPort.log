@@ -1,0 +1,5 @@
+﻿  main.cpp
+  SerialPort.cpp
+  Generating Code...
+  D:\source\repos\physics-project\source\client\SerialPort\main.cpp(64) : warning C4717: 'autoConnect': recursive on all control paths, function will cause runtime stack overflow
+  SerialPort.vcxproj -> D:\source\repos\physics-project\source\client\SerialPort\x64\Release\SerialPort.lib

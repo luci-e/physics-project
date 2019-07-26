@@ -1,0 +1,10 @@
+﻿  bApp.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\minwindef.h(130,1): warning C4005:  'APIENTRY': macro redefinition
+D:\source\repos\physics-project\source\client\glfw-3.3\include\GLFW\glfw3.h(104): message :  see previous definition of 'APIENTRY'
+D:\source\repos\physics-project\source\client\bell_client\bApp.cpp(242,8): warning C4101:  'next': unreferenced local variable
+  imgui_glfw_opengl3.lib(imgui.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Finished generating code
+  bell_client.vcxproj -> D:\source\repos\physics-project\source\client\bell_client\x64\Debug\bell_client.exe
